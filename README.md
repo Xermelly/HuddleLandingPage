@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ping-coming-soon-page-f9evyC_VUS)
-- Live Site URL: [Vercel](https://pingcomingsoonpage-pi.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-8xf59LHHhA)
+- Live Site URL: [Vercel](https://huddlelandingpage-phi.vercel.app/)
 
 ## My process
 
