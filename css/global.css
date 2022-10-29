@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+img,
+picture {
+  max-inline-size: 100%;
+  block-size: auto;
+}
+body {
+  width: 100%;
+  height: 100vh;
+  background: url(../images/bg-mobile.svg) no-repeat;
+  background-color: var(--clr-pmry-violet);
+}
+@media (min-width: 23.5rem) {
+  body {
+    background: url(../images/bg-desktop.svg) no-repeat;
+    background-color: var(--clr-pmry-violet);
+    background-size: cover;
+    background-position: bottom;
+  }
+}
